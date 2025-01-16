@@ -1,0 +1,74 @@
+# ## LISTING FILES AND DIRECTORIES
+## INSTRUCTION
+## YOUR ANSWER SHOULD BE SCREENSHOT 
+## UPLOAD YOUR WORK TO GITHUB REPO YOU CREAT AND REPO NAME SHOULD BE "version_controller_repo"
+
+1. # List all files and directories in the current directory
+
+Answer:
+
+2. # List all files and directories, including hidden ones
+
+Answer:
+
+3. # List files and directories with detailed information
+
+Answer:
+
+# ## NAVIGATING DIRECTORIES
+
+4. # Print the current working directory
+
+Answer:
+
+5. # Change to a different directory
+
+Answer:
+
+6. # Go back to the previous directory
+
+Answer:
+
+# ## CREATING AND REMOVING DIRECTORIES
+
+7. # Create a new directory
+
+Answer:
+
+8. # Remove an empty directory
+
+Answer:
+
+# ## COPYING AND MOVING FILES
+
+9. # Copy a file to another location
+
+Answer:
+
+10. # Move a file to another location or rename it
+
+Answer:
+
+# ## DELETING FILES
+
+11. # Delete a file
+
+Answer:
+
+12. # Delete a directory and its contents
+
+Answer:
+
+# ## VIEWING FILE CONTENTS
+
+13. # Display the contents of a file
+
+Answer:
+
+14. # Display the first few lines of a file
+
+Answer:
+
+15. # Display the last few lines of a file
+
+Answer:
